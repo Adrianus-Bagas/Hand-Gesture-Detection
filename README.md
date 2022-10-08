@@ -1,1 +1,3 @@
 # Hand-Gesture-Detection
+
+Komunikasi merupakan kegiatan yang dilakukan manusia sehari-hari untuk saling berbagi informasi. Mulut menjadi bagian tubuh manusia yang digunakan sebagai alat komunikasi secara langsung, namun orang-orang tertentu khususnya yang berkebutuhan khusus menggunakan bagian tubuh lainnya untuk berkomunikasi, salah satunya adalah tangan. Proyek ini akan membahas identifikasi 5 makna gestur tangan (baik, buruk, telepon, diam, dan damai) menggunakan metode MobileNet. Data yang digunakan dapat diakses pada https://www.kaggle.com/datasets/ruckdent/cropped-hand-gestures-from-hagrid-dataset
